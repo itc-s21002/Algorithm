@@ -11,7 +11,7 @@ def hyou():
         else:
             s += "/, "
         if i%10 == 9:
-            s += "¥n"
+            s += "\n"
     print(s)
 
 def furui():
